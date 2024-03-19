@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manny-Barreto
 - 👀 you will find that i have keen interest in python programming and data modelling  
-- 🌱 I’m currently to gain further qualification of level 4 in Data Analytics 
+- 🌱 I’m currently workign towards gaining further qualifications of level 4 in Data Analytics 
 <!-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on barretomanuel1604@gmail.com
 <!-- 😄 Pronouns: ...
